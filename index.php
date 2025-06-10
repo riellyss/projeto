@@ -2,7 +2,7 @@
 
 $dbHost = '127.0.0.1:3306';
 $dbUserName = 'root';
-$dbPassWord = '';
+$dbPassWord = 'senai.123';
 $dbName = 'sistema_fornecedores';
 
 
